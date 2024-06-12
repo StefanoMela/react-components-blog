@@ -5,7 +5,7 @@ function Card() {
   return (
     <>
       <div className={cardStyle.card}>
-        <img src="https://picsum.photos/600/500" alt="" />
+        <img src="https://picsum.photos/600/400" alt="" />
         <div className={cardStyle.cardBody}>
         <h3 className={cardStyle.textLeft}>Titolo</h3>
         <p>
